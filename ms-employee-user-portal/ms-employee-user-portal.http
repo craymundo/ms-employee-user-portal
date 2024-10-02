@@ -1,0 +1,6 @@
+@ms_employee_user_portal_HostAddress = http://localhost:5258
+
+GET {{ms_employee_user_portal_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

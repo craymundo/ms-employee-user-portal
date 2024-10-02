@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ms-employee-user-portal.props" />
+</Project>

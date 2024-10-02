@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "MV1ZaSQLwcXq/ML4KxFvNUQD1AaSEXyBU9qzEd8UXsE=",
+  "Source": "ms-employee-user-portal",
+  "BasePath": "_content/ms-employee-user-portal",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
